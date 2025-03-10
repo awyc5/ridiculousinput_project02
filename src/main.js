@@ -21,9 +21,9 @@ function updateUsernameInput(letter) {
     }, 500);
     }
 }
-loadSprite("shark","/assets/Asset 14.png")
-loadSprite("bg", "/assets/Asset 15.png")
-loadSprite("fish1","/assets/Asset 10.png")
+loadSprite("shark","assets/Asset 14.png")
+loadSprite("bg", "assets/Asset 15.png")
+loadSprite("fish1","assets/Asset 10.png")
 
 //loads background
 add([
